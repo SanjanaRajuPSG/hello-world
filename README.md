@@ -1,2 +1,2 @@
 # hello-world
-learning to use git
+learning to use git-edit
